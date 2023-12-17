@@ -1,0 +1,10 @@
+Devops...> tools
+.............
+GIT...>VCS. It is mainly used for managing the source code which is developed by developer. which means in every day the developer whatever they are writing the code they going to the store the code inside the github repository. 
+GIT : basically it is a storage  they are you can maintain the source code which are developed by developer.
+Maven
+Jenkins...>(it is a Continues Intigration tool) Intigration multiple tools in one place.
+
+Ansible...>It is CMT Configuration Management Tool which will help to perform the configuration activitis. simply say it is used for Installation
+ 
+
